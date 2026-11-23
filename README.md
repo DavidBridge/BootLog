@@ -4,6 +4,12 @@ A lightweight PowerShell-based Windows boot monitoring solution.
 
 The script records Windows boot performance metrics from the built-in **Microsoft-Windows-Diagnostics-Performance/Operational** event log and appends them to a CSV file for long-term trend analysis.
 
+
+## Use this script at your own risk.
+## This script and will run elevated.
+## Examine the script before you run it to determine its suitablity.
+## No warranties are provided or implied.
+
 ---
 
 ## Purpose
